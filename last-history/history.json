@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b9b25f88bc45a72d",
-      "reportUrl" : "https://nail11.github.io/cicd-py-example/2//#testresult/b9b25f88bc45a72d",
+      "uid" : "3a36da7126df07c2",
+      "reportUrl" : "https://nail11.github.io/cicd-py-example/3//#testresult/3a36da7126df07c2",
       "status" : "passed",
       "time" : {
-        "start" : 1623696705477,
-        "stop" : 1623696705477,
+        "start" : 1624188173284,
+        "stop" : 1624188173284,
         "duration" : 0
       }
     } ]
@@ -29,32 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bbf4dddd2bd6e6ed",
-      "reportUrl" : "https://nail11.github.io/cicd-py-example/2//#testresult/bbf4dddd2bd6e6ed",
+      "uid" : "f45df2919457c452",
+      "reportUrl" : "https://nail11.github.io/cicd-py-example/3//#testresult/f45df2919457c452",
       "status" : "passed",
       "time" : {
-        "start" : 1623696705473,
-        "stop" : 1623696705473,
-        "duration" : 0
-      }
-    } ]
-  },
-  "dcb8fa11fdff83e2daf0e792014a33fe" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "1f18082722451e1b",
-      "reportUrl" : "https://nail11.github.io/cicd-py-example/2//#testresult/1f18082722451e1b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1623696705475,
-        "stop" : 1623696705475,
+        "start" : 1624188173282,
+        "stop" : 1624188173282,
         "duration" : 0
       }
     } ]
@@ -69,12 +49,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d7d710e4a00c9c39",
-      "reportUrl" : "https://nail11.github.io/cicd-py-example/2//#testresult/d7d710e4a00c9c39",
+      "uid" : "477641cb2f8ab77d",
+      "reportUrl" : "https://nail11.github.io/cicd-py-example/3//#testresult/477641cb2f8ab77d",
       "status" : "passed",
       "time" : {
-        "start" : 1623696705471,
-        "stop" : 1623696705471,
+        "start" : 1624188173275,
+        "stop" : 1624188173275,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dcb8fa11fdff83e2daf0e792014a33fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7df2c8abb3d22c5a",
+      "reportUrl" : "https://nail11.github.io/cicd-py-example/3//#testresult/7df2c8abb3d22c5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624188173283,
+        "stop" : 1624188173283,
         "duration" : 0
       }
     } ]
